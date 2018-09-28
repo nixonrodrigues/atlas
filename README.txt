@@ -68,3 +68,4 @@ Build Process
    addons/hive-bridge/target/hive-bridge-<version>.jar
    addons/sqoop-bridge/target/sqoop-bridge-<version>.jar
    addons/storm-bridge/target/storm-bridge-<version>.jar
+   addons/hbase-bridge/target/hbase-bridge-<version>.jar
